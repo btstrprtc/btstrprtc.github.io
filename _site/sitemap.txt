@@ -1,0 +1,9 @@
+
+http://btstrprtc.github.io/archive.html
+http://btstrprtc.github.io/atom.xml
+http://btstrprtc.github.io/categories.html
+http://btstrprtc.github.io/index.html
+http://btstrprtc.github.io/pages.html
+http://btstrprtc.github.io/rss.xml
+http://btstrprtc.github.io/sitemap.txt
+http://btstrprtc.github.io/tags.html
